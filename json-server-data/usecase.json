@@ -1,0 +1,31 @@
+{
+  "allproducts": [
+    {
+      "productName": "mobile",
+      "productPrice": "20000",
+      "productimage": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "productDescription": "good featured mobile",
+      "productStock": "25",
+      "productCategory": "Electronics",
+      "id": 5
+    },
+    {
+      "productName": "perfume",
+      "productPrice": "550",
+      "productDescription": "fgvhbjn",
+      "productStock": "20",
+      "productCategory": "Perfumes",
+      "productimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWW5-i3Cc5K6jDEs7wigF3nyHyMST31SleYEclxyzmzetfCQnAm8_xyByxL_CpIPE6raAwyAk&usqp=CAc",
+      "id": 6
+    },
+    {
+      "id": 14,
+      "productName": "shirt",
+      "productimage": "https://assets.ajio.com/medias/sys_master/root/ha7/he7/15216784474142/-288Wx360H-461085141-blue-MODEL.jpg",
+      "productPrice": "1199",
+      "productDescription": "Nice Shirt",
+      "productStock": "2",
+      "productCategory": "clothing"
+    }
+  ]
+}
